@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Elsayed Kewan</h1>
-<h3 align="center">I'm a dedicated and aspiring Next.js Developer with a strong passion for web development. I'm eager to expand my skills and knowledge in the exciting world of React.js & Next.js. Through continuous learning and hands-on projects, I aim to contribute to innovative web applications that enhance user experiences. And on my way to Full-stack</h3>
-<div align="left">
+<h1>Hi 👋, I'm Elsayed Kewan</h1>
+<p>I'm a dedicated and aspiring Next.js Developer with a strong passion for web development. I'm eager to expand my skills and knowledge in the exciting world of React.js & Next.js. Through continuous learning and hands-on projects, I aim to contribute to innovative web applications that enhance user experiences. And on my way to Full-stack</p>
+<div>
   <a href="https://www.instagram.com/elsayed_kewan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -20,8 +20,8 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3>Languages and Tools:</h3>
+<p>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
