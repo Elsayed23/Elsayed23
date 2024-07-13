@@ -5,7 +5,7 @@
 <h3 align="center">A passionate React.js & Next.js developer from Egypt 🇪🇬</h3>
 
 
-<p>I'm a dedicated and aspiring Next.js Developer with a strong passion for web development. I'm eager to expand my skills and knowledge in the exciting world of React.js & Next.js. Through continuous learning and hands-on projects, I aim to contribute to innovative web applications that enhance user experiences. And on my way to Full-stack</p>
+<p>I am a dedicated and aspiring Frontend Developer with a strong passion for web development, specializing in React.js and Next.js. Eager to expand my skills and knowledge, I continuously seek out learning opportunities and hands-on projects. My goal is to contribute to innovative web applications that provide exceptional user experiences. I am on a journey to becoming a Full Stack Developer, driven by curiosity and a commitment to excellence.</p>
 <div>
   <a href="https://www.instagram.com/elsayed_kewan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
