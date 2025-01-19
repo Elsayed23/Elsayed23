@@ -7,19 +7,13 @@
 
 <p>I am a dedicated and aspiring Frontend Developer with a strong passion for web development, specializing in React.js and Next.js. Eager to expand my skills and knowledge, I continuously seek out learning opportunities and hands-on projects. My goal is to contribute to innovative web applications that provide exceptional user experiences. I am on a journey to becoming a Full Stack Developer, driven by curiosity and a commitment to excellence.</p>
 <div>
-  <a href="https://www.instagram.com/elsayed_kewan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
   <a href="https://discord.com/users/elsayed9632" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/el-sayed-kewan-48565a26b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100014953035548" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://wa.me/+201152989114" target="_blank">
+  <a href="https://wa.me/+201040578478" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/elsayedkewan123" target="_blank">
